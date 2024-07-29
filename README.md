@@ -18,11 +18,12 @@ This project analyzes judiciary cases in India using Python for data analytics. 
 ### Setting Up the Environment
 1. Clone the repository:
    git clone <https://github.com/Nishchal860156/Streamlined_Judiciary_Data/edit/main/README.md>
+
    cd <Streamlined_Judiciary_Data>
-2. Create a virtual environment:
+3. Create a virtual environment:
    python -m venv env
    source env/bin/activate  # On Windows use `env\Scripts\activate`   
-3. Install the required packages:
+4. Install the required packages:
    pip install -r requirements.txt
 
 ## Usage
