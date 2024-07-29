@@ -21,8 +21,7 @@ This project analyzes judiciary cases in India using Python for data analytics. 
 
    cd <Streamlined_Judiciary_Data>
 3. Create a virtual environment:
-   python -m venv env
-   source env/bin/activate  # On Windows use `env\Scripts\activate`   
+   On Windows use `env\Scripts\activate`   
 4. Install the required packages:
    pip install -r requirements.txt
 
